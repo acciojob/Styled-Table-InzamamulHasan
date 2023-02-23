@@ -2,8 +2,19 @@
 .ho{
 	background-color:blue;
 	border-radius:1px;
-	;
+	
+}
+.g{
+	border-collapse:separate;
+	border:1px solid red;
+}
+tr{
+	border:1px solid black:
+}
+th,td{
+	border:1px solid black;
 }
 .ash{
 	background-color:green;
+	border:1px solid blue;
 }
